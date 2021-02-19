@@ -1,7 +1,6 @@
   <div align=center>
     <h1><span><b>Outline</b></span></h1>
     <h5> Group Members: Jake Cillay and Wil Troxel </h5>
-  <img src="/Solving-a-maze-using-Reinforcement-Learning.robot.png" />
   </div>
  
  <div align=left> 
