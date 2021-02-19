@@ -1,7 +1,6 @@
   <div align=center>
-    </h1><span><b>Outline:</b></span></h1>
-    
-
+    <h1><span><b>Outline</b></span></h1>
+    <h3> Group Members: Jake Cillay and Wil Troxel </h3>
   </div>
  
  <div align=left> 
@@ -10,7 +9,4 @@
     </p>
  </div>
   
-
-Group Members: Jake Cillay and Wil Troxel
-
 
