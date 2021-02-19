@@ -1,6 +1,6 @@
   <div align=center>
     <h1><span><b>Outline</b></span></h1>
-    <h3> Group Members: Jake Cillay and Wil Troxel </h3>
+    <h5> Group Members: Jake Cillay and Wil Troxel </h5>
   </div>
  
  <div align=left> 
